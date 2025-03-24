@@ -1,0 +1,16 @@
+bibentry(
+  bibtype = "misc",
+  title = "A Dictionary for Quantitative Text Analysis of Health and Equity Content in Policy Documents",
+  author = c(person("Hannah E.", "Murdock"),
+            person("Dena", "Kasraian"),
+            person("Ahmadreza", "Faghih Imani"),
+            person("Yurong", "Yu"),
+            person("Audrey", "de Nazelle"),
+            person("Dominic", "Stead"),
+            person("Sonja", "Kahlmeier")
+)
+  year = 2025,
+  doi = "https://doi.org/10.5281/zenodo.15076310",
+  note = "A text analysis dictionary developed for "Health in mobility planning: An assessment of how health is considered in Sustainable Urban Mobility Plans", Journal of Transport & Health, 39, Nov 2024.",
+  url = "https://github.com/hmurdock21/health-equity-dictionary"
+)
